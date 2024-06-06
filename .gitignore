@@ -36,3 +36,5 @@ mvnw
 *.lst
 
 target/classes/
+
+target/
